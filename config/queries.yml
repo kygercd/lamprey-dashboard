@@ -1,0 +1,39 @@
+# PTAGIS scheduled report files
+# -------------------------------------------------------------
+# For each saved query that you've set to "Subscribe To -> File"
+# in PTAGIS Advanced Reporting, fill in:
+#   - name:     short filesystem-safe label for our output
+#   - filename: the EXACT filename PTAGIS writes (with extension;
+#               spaces are fine, the script URL-encodes them)
+#
+# PTAGIS serves the file at:
+#   https://api.ptagis.org/reporting/reports/<ptagis_user>/file/<filename>
+# -------------------------------------------------------------
+
+ptagis_user: cdkyger
+
+queries:
+
+  - name: translocated_lamprey_cth
+    filename: "Translocated Lamprey Complete Tag History.csv"
+    description: >
+      Complete Tag History for translocated Pacific Lamprey
+      (adult releases + release-site/date detail).
+
+  - name: translocated_lamprey_interrogation
+    filename: "Translocated Lamprey Interrogation Summary.csv"
+    description: >
+      Interrogation Summary for translocated Pacific Lamprey
+      (adult detections at PIT arrays / dams).
+
+  - name: juv_lamprey_tagging_detail
+    filename: "Juv Lamprey Tagging Detail.csv"
+    description: >
+      Tagging Detail for juvenile Pacific Lamprey (larvae /
+      macropthalmia releases).
+
+  - name: juv_lamprey_interrogation
+    filename: "Juv Lamprey Interrogation Summary.csv"
+    description: >
+      Interrogation Summary for juvenile Pacific Lamprey
+      (juvenile detections at PIT arrays).

@@ -1,0 +1,25 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.Rproj
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local-only credentials
+secrets.yml
+*.env
+
+# Cowork / Claude session metadata (not part of the project)
+.claude/
+
+# rsconnect deploy metadata
+app/rsconnect/

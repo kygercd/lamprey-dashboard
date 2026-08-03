@@ -1,0 +1,25 @@
+Package: lampreydashboard
+Title: Translocated Lamprey Dashboard
+Version: 0.1.0
+Description: Data pipeline and Shiny dashboard for translocated Pacific
+    Lamprey release and detection data from PTAGIS.
+Imports:
+    httr2,
+    jsonlite,
+    readr,
+    dplyr,
+    tidyr,
+    tibble,
+    yaml,
+    fs,
+    glue,
+    janitor,
+    rprojroot,
+    stringr,
+    lubridate,
+    shiny,
+    bslib,
+    leaflet,
+    plotly,
+    DT
+Encoding: UTF-8
