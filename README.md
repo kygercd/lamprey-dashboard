@@ -57,6 +57,14 @@ per year, 2010 through the current year, extracting the
 return an HTML error page from DART; the script detects that and
 skips silently.
 
+The Wells Dam tab's daily count table shows a running
+**Cumulative Count** and **Cumulative 10-yr avg** alongside the
+raw daily values. Both are computed over the full season
+(including zero-count days) before the table is filtered down to
+days with fish, so a day with no passage this year but nonzero
+historical activity still contributes correctly to the
+cumulative average.
+
 ### Release-site coordinate correction
 
 PTAGIS's own "release site" field on the Complete Tag History
