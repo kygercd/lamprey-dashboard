@@ -643,9 +643,20 @@ server <- function(input, output, session) {
     if (is.null(df) || is.na(yr)) return(datatable(data.frame(), rownames = FALSE))
     prior <- df |> filter(year < yr, year >= yr - 10) |>
       group_by(md) |> summarise(avg10 = mean(count, na.rm = TRUE), .groups = "drop")
-    tbl <- df |> filter(year == yr, count >= 1) |>
+    # Cumulative sums are computed over the full season (including
+    # zero-count days) before filtering to count >= 1 for display,
+    # so a day with no fish this year but a nonzero historical
+    # average still contributes to the cumulative 10-yr avg.
+    full <- df |> filter(year == yr) |>
       left_join(prior, by = "md") |> arrange(date) |>
-      transmute(Date = fmt_date(date), Count = count, `10-yr avg` = round(avg10, 1))
+      mutate(avg10 = ifelse(is.na(avg10), 0, avg10),
+             cum_count = cumsum(count),
+             cum_avg10 = cumsum(avg10))
+    tbl <- full |> filter(count >= 1) |>
+      transmute(Date = fmt_date(date), Count = count,
+                `Cumulative Count` = cum_count,
+                `10-yr avg` = round(avg10, 1),
+                `Cumulative 10-yr avg` = round(cum_avg10, 1))
     if (nrow(tbl) == 0)
       return(datatable(data.frame(message = "No passage recorded this year."),
                        rownames = FALSE))
