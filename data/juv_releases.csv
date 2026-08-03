@@ -1735,49 +1735,75 @@ tag_code,life_stage,release_site_label,release_site_code,release_site_name,relea
 3D9.1A4FD2A0EC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,128
 3D9.1A4FD2A0ED,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/18/2025,2025,48.151085,-120.056584,117
 3D9.1A4FD2A0EE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2025,2025,48.151085,-120.056584,125
+3D9.1A4FD2A0EF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/6/2026,2026,48.151085,-120.056584,123
 3D9.1A4FD2A0F0,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/19/2025,2025,48.367273,-120.138784,132
 3D9.1A4FD2A0F1,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/20/2025,2025,48.367273,-120.138784,133
+3D9.1A4FD2A0F2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,125
 3D9.1A4FD2A0F3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/23/2025,2025,48.367273,-120.138784,122
+3D9.1A4FD2A0F5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,115
+3D9.1A4FD2A0F6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,99
+3D9.1A4FD2A0F8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/6/2026,2026,48.151085,-120.056584,130
 3D9.1A4FD2A0F9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,96
+3D9.1A4FD2A0FA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,120
 3D9.1A4FD2A0FB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,117
 3D9.1A4FD2A0FE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,1/3/2026,2026,48.367273,-120.138784,132
 3D9.1A4FD2A0FF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/17/2025,2025,48.367273,-120.138784,140
 3D9.1A4FD2A100,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/17/2025,2025,48.367273,-120.138784,127
+3D9.1A4FD2A102,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,115
 3D9.1A4FD2A103,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,139
 3D9.1A4FD2A104,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/19/2025,2025,48.367273,-120.138784,107
 3D9.1A4FD2A105,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/10/2025,2025,48.367273,-120.138784,115
 3D9.1A4FD2A106,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/17/2025,2025,48.367273,-120.138784,124
+3D9.1A4FD2A107,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/6/2026,2026,48.151085,-120.056584,130
+3D9.1A4FD2A108,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/2/2026,2026,48.151085,-120.056584,117
+3D9.1A4FD2A109,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,114
 3D9.1A4FD2A10B,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,122
 3D9.1A4FD2A10C,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,156
+3D9.1A4FD2A10D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,105
+3D9.1A4FD2A10E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,102
+3D9.1A4FD2A10F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,115
+3D9.1A4FD2A110,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/12/2026,2026,48.151085,-120.056584,125
 3D9.1A4FD2A111,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,125
 3D9.1A4FD2A112,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/19/2025,2025,48.367273,-120.138784,143
 3D9.1A4FD2A113,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,130
+3D9.1A4FD2A115,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,111
+3D9.1A4FD2A116,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,113
 3D9.1A4FD2A117,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/10/2025,2025,48.367273,-120.138784,124
+3D9.1A4FD2A118,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,123
+3D9.1A4FD2A119,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,128
 3D9.1A4FD2A11A,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,120
 3D9.1A4FD2A11B,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,121
 3D9.1A4FD2A11D,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,112
+3D9.1A4FD2A11E,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/22/2026,2026,48.151085,-120.056584,130
 3D9.1A4FD2A11F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,122
 3D9.1A4FD2A120,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,125
 3D9.1A4FD2A121,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/5/2025,2025,48.367273,-120.138784,130
+3D9.1A4FD2A122,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/22/2026,2026,48.151085,-120.056584,127
 3D9.1A4FD2A123,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/1/2025,2025,48.367273,-120.138784,126
 3D9.1A4FD2A124,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,1/4/2026,2026,48.367273,-120.138784,120
 3D9.1A4FD2A127,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/17/2025,2025,48.367273,-120.138784,151
 3D9.1A4FD2A128,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,91
+3D9.1A4FD2A129,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/6/2026,2026,48.151085,-120.056584,127
 3D9.1A4FD2A12A,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/19/2025,2025,48.367273,-120.138784,125
 3D9.1A4FD2A12B,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/22/2025,2025,48.367273,-120.138784,117
 3D9.1A4FD2A12D,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,107
+3D9.1A4FD2A12E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/2/2026,2026,48.151085,-120.056584,127
 3D9.1A4FD2A12F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,131
+3D9.1A4FD2A130,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/2/2026,2026,48.151085,-120.056584,116
 3D9.1A4FD2A131,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/3/2025,2025,48.367273,-120.138784,116
 3D9.1A4FD2A132,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/17/2025,2025,48.367273,-120.138784,107
 3D9.1A4FD2A133,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/21/2025,2025,48.367273,-120.138784,134
 3D9.1A4FD2A134,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/21/2025,2025,48.367273,-120.138784,140
 3D9.1A4FD2A136,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,90
+3D9.1A4FD2A137,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,124
 3D9.1A4FD2A138,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,136
 3D9.1A4FD2A139,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,139
+3D9.1A4FD2A13A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/3/2026,2026,48.151085,-120.056584,107
 3D9.1A4FD2A13C,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,120
 3D9.1A4FD2A13D,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/21/2025,2025,48.367273,-120.138784,127
 3D9.1A4FD2A13E,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,132
 3D9.1A4FD2A13F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,120
+3D9.1A4FD2A140,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,122
 3D9.1A4FD2A141,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,121
 3D9.1A4FD2A142,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/16/2025,2025,48.367273,-120.138784,90
 3D9.1A4FD2A143,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/15/2025,2025,48.367273,-120.138784,145
@@ -1793,6 +1819,370 @@ tag_code,life_stage,release_site_label,release_site_code,release_site_name,relea
 3D9.1A4FD2A14F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,12/19/2025,2025,48.367273,-120.138784,130
 3D9.1A4FD2A150,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/15/2025,2025,48.367273,-120.138784,111
 3D9.1A4FD2A151,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,11/19/2025,2025,48.367273,-120.138784,147
+3D9.1A4FF311BB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,110
+3D9.1A4FF311BC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/18/2026,2026,48.151085,-120.056584,95
+3D9.1A4FF311BD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/13/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF311BE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/14/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF311BF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,140
+3D9.1A4FF311C2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/14/2026,2026,48.151085,-120.056584,91
+3D9.1A4FF311C3,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF311C4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF311C5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/9/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF311C6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/9/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF311C8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF311C9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2026,2026,48.151085,-120.056584,132
+3D9.1A4FF311CA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF311CB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF311CD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF311CF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/13/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF311D0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF311D1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF311D2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,98
+3D9.1A4FF311D4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF311D6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,134
+3D9.1A4FF311D7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/13/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF311D8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/10/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF311DA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/19/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF311DB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF311DC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF311DD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/13/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF311DE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF311DF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,116
+3D9.1A4FF311E0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF311E2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/18/2026,2026,48.151085,-120.056584,93
+3D9.1A4FF311E4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF311E6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF311E7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/18/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF311E8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/18/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF311E9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/14/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF311EA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF311EB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/9/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF311EC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,106
+3D9.1A4FF311ED,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF311EE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF311EF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,132
+3D9.1A4FF311F0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF311F1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/10/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF311F4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,108
+3D9.1A4FF311F5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF311F6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/20/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF311F7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/10/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF311F8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/9/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF311FA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF311FB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,101
+3D9.1A4FF311FC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF311FD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF311FE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/14/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF311FF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31200,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/19/2026,2026,48.151085,-120.056584,107
+3D9.1A4FF31201,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31202,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF31203,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/18/2026,2026,48.151085,-120.056584,107
+3D9.1A4FF31204,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/10/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31205,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,137
+3D9.1A4FF31206,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/19/2026,2026,48.151085,-120.056584,101
+3D9.1A4FF31207,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/28/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31208,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31209,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF3120B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF3120C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF3120D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF3120E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF3120F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31210,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31211,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/20/2026,2026,48.151085,-120.056584,107
+3D9.1A4FF31212,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31213,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31214,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/19/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31216,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF31217,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,104
+3D9.1A4FF31218,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31219,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF3121A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF3121B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/14/2026,2026,48.151085,-120.056584,88
+3D9.1A4FF3121D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/21/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF3121E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF3121F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/9/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31C48,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF31C49,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,94
+3D9.1A4FF31C4A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C4B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C4C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31C4D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31C4E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,98
+3D9.1A4FF31C4F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,99
+3D9.1A4FF31C50,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF31C51,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,103
+3D9.1A4FF31C52,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,80
+3D9.1A4FF31C53,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C54,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C55,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C56,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31C57,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31C58,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF31C59,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31C5A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,98
+3D9.1A4FF31C5B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31C5C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31C5D,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31C5E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,106
+3D9.1A4FF31C5F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C60,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C61,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31C62,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C63,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/12/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31C64,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31C65,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,107
+3D9.1A4FF31C66,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF31C67,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C68,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C69,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF31C6A,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/12/2026,2026,48.151085,-120.056584,140
+3D9.1A4FF31C6B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C6C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,86
+3D9.1A4FF31C6D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31C6E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C6F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31C70,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31C71,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF31C72,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31C73,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C74,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C75,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31C76,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31C77,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C78,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31C79,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C7A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF31C7B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31C7C,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31C7D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31C7E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,113
+3D9.1A4FF31C7F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31C80,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C81,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31C82,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31C83,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31C84,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,136
+3D9.1A4FF31C85,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,100
+3D9.1A4FF31C86,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31C87,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,100
+3D9.1A4FF31C88,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C89,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,85
+3D9.1A4FF31C8A,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C8B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31C8C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31C8D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF31C8E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31C8F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C90,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31C91,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C93,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF31C94,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31C95,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31C96,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/12/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31C97,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C98,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31C99,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31C9A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31C9B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,136
+3D9.1A4FF31C9C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,116
+3D9.1A4FF31C9D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31C9E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF31C9F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF31CA0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,114
+3D9.1A4FF31CA1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31CA2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/30/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF31CA4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31CA5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,97
+3D9.1A4FF31CA6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31CA7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,85
+3D9.1A4FF31CA8,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31CA9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31CAA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31CAB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31CAC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/8/2026,2026,48.367273,-120.138784,112
+3D9.1A4FF31CAD,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/12/2026,2026,48.367273,-120.138784,120
+3D9.1A4FF31CAE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,125
+3D9.1A4FF31CAF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/3/2026,2026,48.367273,-120.138784,117
+3D9.1A4FF31CB0,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/19/2026,2026,48.367273,-120.138784,99
+3D9.1A4FF31CB1,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/5/2026,2026,48.367273,-120.138784,124
+3D9.1A4FF31CB2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/7/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31CB3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/8/2026,2026,48.367273,-120.138784,121
+3D9.1A4FF31CB5,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/20/2026,2026,48.367273,-120.138784,121
+3D9.1A4FF31CB6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/26/2026,2026,48.367273,-120.138784,97
+3D9.1A4FF31CB8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/30/2026,2026,48.367273,-120.138784,124
+3D9.1A4FF31CB9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/19/2026,2026,48.367273,-120.138784,125
+3D9.1A4FF31CBA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/24/2026,2026,48.367273,-120.138784,108
+3D9.1A4FF31CBB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/21/2026,2026,48.367273,-120.138784,110
+3D9.1A4FF31CBC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/4/2026,2026,48.367273,-120.138784,126
+3D9.1A4FF31CBD,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/26/2026,2026,48.367273,-120.138784,122
+3D9.1A4FF31CBE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/20/2026,2026,48.367273,-120.138784,126
+3D9.1A4FF31CC0,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/23/2026,2026,48.367273,-120.138784,90
+3D9.1A4FF31CC1,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/1/2026,2026,48.367273,-120.138784,95
+3D9.1A4FF31CC2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/9/2026,2026,48.367273,-120.138784,94
+3D9.1A4FF31CC3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/18/2026,2026,48.367273,-120.138784,137
+3D9.1A4FF31CC4,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/23/2026,2026,48.367273,-120.138784,113
+3D9.1A4FF31CC5,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/27/2026,2026,48.367273,-120.138784,129
+3D9.1A4FF31CC6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/9/2026,2026,48.367273,-120.138784,91
+3D9.1A4FF31CC7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/11/2026,2026,48.367273,-120.138784,109
+3D9.1A4FF31CC8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/10/2026,2026,48.367273,-120.138784,121
+3D9.1A4FF31CC9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/10/2026,2026,48.367273,-120.138784,114
+3D9.1A4FF31CCA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/16/2026,2026,48.367273,-120.138784,117
+3D9.1A4FF31CCC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/17/2026,2026,48.367273,-120.138784,100
+3D9.1A4FF31CCE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/14/2026,2026,48.367273,-120.138784,95
+3D9.1A4FF31CD2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/10/2026,2026,48.367273,-120.138784,110
+3D9.1A4FF31CD3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/6/2026,2026,48.367273,-120.138784,109
+3D9.1A4FF31CD5,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/17/2026,2026,48.367273,-120.138784,108
+3D9.1A4FF31CD6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/20/2026,2026,48.367273,-120.138784,99
+3D9.1A4FF31CD7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/20/2026,2026,48.367273,-120.138784,125
+3D9.1A4FF31CD8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/23/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31CDA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/18/2026,2026,48.367273,-120.138784,125
+3D9.1A4FF31CDB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/18/2026,2026,48.367273,-120.138784,114
+3D9.1A4FF31CDC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/20/2026,2026,48.367273,-120.138784,96
+3D9.1A4FF31CDD,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/22/2026,2026,48.367273,-120.138784,120
+3D9.1A4FF31CDE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/20/2026,2026,48.367273,-120.138784,89
+3D9.1A4FF31CE0,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/5/2026,2026,48.367273,-120.138784,117
+3D9.1A4FF31CE2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,112
+3D9.1A4FF31CE3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/5/2026,2026,48.367273,-120.138784,127
+3D9.1A4FF31CE4,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,124
+3D9.1A4FF31CE6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/21/2026,2026,48.367273,-120.138784,116
+3D9.1A4FF31CE7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/12/2026,2026,48.367273,-120.138784,110
+3D9.1A4FF31CE9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/19/2026,2026,48.367273,-120.138784,127
+3D9.1A4FF31CEA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/15/2026,2026,48.367273,-120.138784,111
+3D9.1A4FF31CEB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/13/2026,2026,48.367273,-120.138784,100
+3D9.1A4FF31CEC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/29/2026,2026,48.367273,-120.138784,109
+3D9.1A4FF31CED,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/21/2026,2026,48.367273,-120.138784,130
+3D9.1A4FF31CEE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/16/2026,2026,48.367273,-120.138784,105
+3D9.1A4FF31CEF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/19/2026,2026,48.367273,-120.138784,114
+3D9.1A4FF31CF1,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/12/2026,2026,48.367273,-120.138784,109
+3D9.1A4FF31CF2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/24/2026,2026,48.367273,-120.138784,114
+3D9.1A4FF31CF3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/21/2026,2026,48.367273,-120.138784,116
+3D9.1A4FF31CF4,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/5/2026,2026,48.367273,-120.138784,113
+3D9.1A4FF31CF5,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/23/2026,2026,48.367273,-120.138784,129
+3D9.1A4FF31CF6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/7/2026,2026,48.367273,-120.138784,116
+3D9.1A4FF31CF7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/13/2026,2026,48.367273,-120.138784,110
+3D9.1A4FF31CF8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/9/2026,2026,48.367273,-120.138784,120
+3D9.1A4FF31CF9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/11/2026,2026,48.367273,-120.138784,117
+3D9.1A4FF31CFA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/22/2026,2026,48.367273,-120.138784,127
+3D9.1A4FF31CFB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/23/2026,2026,48.367273,-120.138784,116
+3D9.1A4FF31CFD,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/7/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31CFE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/28/2026,2026,48.367273,-120.138784,112
+3D9.1A4FF31CFF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/25/2026,2026,48.367273,-120.138784,82
+3D9.1A4FF31D00,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/30/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31D01,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/10/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31D02,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/2/2026,2026,48.367273,-120.138784,129
+3D9.1A4FF31D03,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/19/2026,2026,48.367273,-120.138784,102
+3D9.1A4FF31D04,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/26/2026,2026,48.367273,-120.138784,107
+3D9.1A4FF31D05,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/2/2026,2026,48.367273,-120.138784,117
+3D9.1A4FF31D06,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/26/2026,2026,48.367273,-120.138784,129
+3D9.1A4FF31D07,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/14/2026,2026,48.367273,-120.138784,122
+3D9.1A4FF31D09,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/5/2026,2026,48.367273,-120.138784,93
+3D9.1A4FF31D0A,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/18/2026,2026,48.367273,-120.138784,141
+3D9.1A4FF31D0B,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/7/2026,2026,48.367273,-120.138784,115
+3D9.1A4FF31D0C,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/26/2026,2026,48.367273,-120.138784,92
+3D9.1A4FF31D0D,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/25/2026,2026,48.367273,-120.138784,108
+3D9.1A4FF31D0E,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/13/2026,2026,48.367273,-120.138784,106
+3D9.1A4FF31D0F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/5/2026,2026,48.367273,-120.138784,97
+3D9.1A4FF31D10,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31D11,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D12,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D13,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31D14,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/11/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D15,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31D16,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,105
+3D9.1A4FF31D17,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D18,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,99
+3D9.1A4FF31D19,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31D1A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31D1B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,113
+3D9.1A4FF31D1C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF31D1D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31D1E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31D1F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D20,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,103
+3D9.1A4FF31D21,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31D22,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31D23,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31D24,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,101
+3D9.1A4FF31D25,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31D26,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,101
+3D9.1A4FF31D27,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31D28,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31D29,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,116
+3D9.1A4FF31D2A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31D2B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,99
+3D9.1A4FF31D2C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,113
+3D9.1A4FF31D2D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31D2E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,99
+3D9.1A4FF31D2F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31D30,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31D31,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,103
+3D9.1A4FF31D32,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,128
+3D9.1A4FF31D33,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/11/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D34,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D35,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF31D36,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,100
+3D9.1A4FF31D37,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D38,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31D39,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF31D3B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,103
+3D9.1A4FF31D3C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31D3D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D3E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,100
+3D9.1A4FF31D3F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D40,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,119
+3D9.1A4FF31D41,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31D42,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31D43,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,112
+3D9.1A4FF31D44,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,106
+3D9.1A4FF31D45,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,130
+3D9.1A4FF31D46,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D47,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,120
+3D9.1A4FF31D48,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31D49,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31D4A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,109
+3D9.1A4FF31D4B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,93
+3D9.1A4FF31D4C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,124
+3D9.1A4FF31D4D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31D4E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31D4F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D50,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,112
+3D9.1A4FF31D51,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,129
+3D9.1A4FF31D52,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31D53,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31D54,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31D55,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31D56,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,117
+3D9.1A4FF31D57,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31D58,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D59,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,90
+3D9.1A4FF31D5A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31D5B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D5C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,93
+3D9.1A4FF31D5D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31D5E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,111
+3D9.1A4FF31D5F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,118
+3D9.1A4FF31D60,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,132
+3D9.1A4FF31D61,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31D62,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,122
+3D9.1A4FF31D63,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D64,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,112
+3D9.1A4FF31D65,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,131
+3D9.1A4FF31D66,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,110
+3D9.1A4FF31D67,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,112
+3D9.1A4FF31D68,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/22/2026,2026,48.151085,-120.056584,112
+3D9.1A4FF31D69,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF31D6A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,126
+3D9.1A4FF31D6B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/11/2026,2026,48.151085,-120.056584,125
+3D9.1A4FF31D6C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,123
+3D9.1A4FF31D6D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/21/2026,2026,48.151085,-120.056584,121
+3D9.1A4FF31D6E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2026,2026,48.151085,-120.056584,132
+3D9.1A4FF31D6F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,108
+3D9.1A4FF31D70,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/20/2026,2026,48.151085,-120.056584,115
+3D9.1A4FF31D71,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,127
+3D9.1A4FF31D72,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,102
+3D9.1A4FF31D73,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,127
 3DD.003D670F1C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/20/2022,2022,48.151085,-120.056584,147
 3DD.003D670F1E,Macropthalmia (eyed juvenile),METHR - Methow River,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/1/2023,2023,48.151085,-120.056584,148
 3DD.003D670F23,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/20/2022,2022,48.151085,-120.056584,140
@@ -2567,7 +2957,93 @@ tag_code,life_stage,release_site_label,release_site_code,release_site_name,relea
 3DD.0078E12B61,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/29/2025,2025,48.151085,-120.056584,137
 3DD.0078E12B62,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/29/2025,2025,48.151085,-120.056584,133
 3DD.0078E12B63,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/29/2025,2025,48.151085,-120.056584,135
+3DD.0078E137E4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,138
+3DD.0078E137E5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,140
+3DD.0078E137E6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,135
+3DD.0078E137E7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,139
+3DD.0078E137E9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,132
+3DD.0078E137EB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,137
+3DD.0078E137EC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,135
+3DD.0078E137ED,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/7/2026,2026,48.151085,-120.056584,133
+3DD.0078E137EE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,134
+3DD.0078E137EF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,135
+3DD.0078E137F0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2026,2026,48.151085,-120.056584,131
+3DD.0078E137F1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,135
+3DD.0078E137F2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,140
+3DD.0078E137F3,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,134
+3DD.0078E137F4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,133
+3DD.0078E137F7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/13/2026,2026,48.151085,-120.056584,135
+3DD.0078E137F9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,134
+3DD.0078E137FB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,168
+3DD.0078E137FC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,135
+3DD.0078E137FD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2026,2026,48.151085,-120.056584,137
+3DD.0078E137FE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,143
+3DD.0078E13801,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,140
+3DD.0078E13803,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2026,2026,48.151085,-120.056584,155
+3DD.0078E13804,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,135
+3DD.0078E13806,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,144
+3DD.0078E13807,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2026,2026,48.151085,-120.056584,130
+3DD.0078E13808,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/11/2026,2026,48.151085,-120.056584,139
+3DD.0078E13809,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,135
+3DD.0078E1380A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,128
+3DD.0078E1380B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,147
+3DD.0078E1380C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,133
+3DD.0078E1380D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,136
+3DD.0078E1380E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,155
+3DD.0078E13811,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,152
+3DD.0078E13812,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2026,2026,48.151085,-120.056584,138
+3DD.0078E13813,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,133
+3DD.0078E13814,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2026,2026,48.151085,-120.056584,134
+3DD.0078E13815,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,175
+3DD.0078E13818,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/19/2026,2026,48.151085,-120.056584,137
+3DD.0078E13819,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,134
+3DD.0078E1381A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2026,2026,48.151085,-120.056584,131
+3DD.0078E1381C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,135
+3DD.0078E1381D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,137
+3DD.0078E1381E,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/24/2026,2026,48.151085,-120.056584,136
+3DD.0078E1381F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/17/2026,2026,48.151085,-120.056584,137
+3DD.0078E13821,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/8/2026,2026,48.151085,-120.056584,155
+3DD.0078E13822,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,142
+3DD.0078E13823,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,134
+3DD.0078E13824,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,133
+3DD.0078E13825,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,150
+3DD.0078E13826,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,152
+3DD.0078E13827,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,131
+3DD.0078E13828,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/10/2026,2026,48.151085,-120.056584,129
+3DD.0078E13829,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,159
+3DD.0078E1382A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,143
+3DD.0078E1382B,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/24/2026,2026,48.151085,-120.056584,142
+3DD.0078E1382C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,157
+3DD.0078E1382D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,150
+3DD.0078E1382E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,141
+3DD.0078E1382F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,132
+3DD.0078E13830,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,157
+3DD.0078E13831,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,135
+3DD.0078E13832,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,136
+3DD.0078E13833,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,165
+3DD.0078E13834,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,152
+3DD.0078E13835,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,146
+3DD.0078E13836,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,140
+3DD.0078E13837,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,136
+3DD.0078E13838,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/15/2026,2026,48.151085,-120.056584,139
+3DD.0078E13839,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,130
+3DD.0078E1383A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,125
+3DD.0078E1383B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,155
+3DD.0078E1383C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,155
+3DD.0078E1383D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,144
+3DD.0078E1383E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,133
+3DD.0078E1383F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,151
+3DD.0078E13840,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/5/2026,2026,48.151085,-120.056584,135
+3DD.0078E13841,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,131
+3DD.0078E13842,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/4/2026,2026,48.151085,-120.056584,134
+3DD.0078E13843,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/6/2026,2026,48.151085,-120.056584,165
+3DD.0078E13844,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/12/2026,2026,48.151085,-120.056584,136
+3DD.0078E13845,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/9/2026,2026,48.151085,-120.056584,142
+3DD.0078E13846,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/14/2026,2026,48.151085,-120.056584,138
+3DD.0078E13847,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/25/2026,2026,48.151085,-120.056584,135
+3DD.0078E13DC0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,134
 3DD.0078E13DC1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2025,2025,48.151085,-120.056584,138
+3DD.0078E13DC2,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,132
 3DD.0078E13DC3,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,143
 3DD.0078E13DC4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/23/2025,2025,48.151085,-120.056584,134
 3DD.0078E13DC5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/23/2025,2025,48.151085,-120.056584,139
@@ -2575,22 +3051,31 @@ tag_code,life_stage,release_site_label,release_site_code,release_site_name,relea
 3DD.0078E13DC7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,135
 3DD.0078E13DC8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2025,2025,48.151085,-120.056584,138
 3DD.0078E13DC9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,142
+3DD.0078E13DCA,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,134
 3DD.0078E13DCB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,142
+3DD.0078E13DCC,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,177
 3DD.0078E13DCD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,144
 3DD.0078E13DCE,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/4/2025,2025,48.151085,-120.056584,136
 3DD.0078E13DCF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2025,2025,48.151085,-120.056584,143
 3DD.0078E13DD0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,144
 3DD.0078E13DD1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,132
+3DD.0078E13DD2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,135
+3DD.0078E13DD3,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,140
 3DD.0078E13DD4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/23/2025,2025,48.151085,-120.056584,141
 3DD.0078E13DD5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2025,2025,48.151085,-120.056584,139
 3DD.0078E13DD6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,134
 3DD.0078E13DD7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/2/2025,2025,48.151085,-120.056584,142
+3DD.0078E13DD8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,139
 3DD.0078E13DD9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,141
 3DD.0078E13DDA,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2025,2025,48.151085,-120.056584,146
+3DD.0078E13DDB,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,155
 3DD.0078E13DDC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/26/2025,2025,48.151085,-120.056584,137
 3DD.0078E13DDD,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,137
 3DD.0078E13DDE,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2025,2025,48.151085,-120.056584,139
+3DD.0078E13DDF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,143
 3DD.0078E13DE0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,141
+3DD.0078E13DE1,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,158
+3DD.0078E13DE2,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/30/2026,2026,48.151085,-120.056584,133
 3DD.0078E13DE3,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,135
 3DD.0078E13DE4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,141
 3DD.0078E13DE5,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/2/2025,2025,48.151085,-120.056584,140
@@ -2606,28 +3091,83 @@ tag_code,life_stage,release_site_label,release_site_code,release_site_name,relea
 3DD.0078E13DEF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2025,2025,48.151085,-120.056584,134
 3DD.0078E13DF0,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/24/2025,2025,48.151085,-120.056584,137
 3DD.0078E13DF1,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2025,2025,48.151085,-120.056584,140
+3DD.0078E13DF2,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,3/22/2026,2026,48.151085,-120.056584,145
 3DD.0078E13DF3,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/25/2025,2025,48.151085,-120.056584,140
 3DD.0078E13DF4,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/23/2025,2025,48.151085,-120.056584,137
+3DD.0078E13DF5,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,142
 3DD.0078E13DF6,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,149
 3DD.0078E13DF7,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2025,2025,48.151085,-120.056584,133
 3DD.0078E13DF8,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,140
 3DD.0078E13DF9,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,135
 3DD.0078E13DFA,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,12/25/2025,2025,48.151085,-120.056584,175
 3DD.0078E13DFB,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,136
+3DD.0078E13DFC,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,140
+3DD.0078E13DFD,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,137
+3DD.0078E13DFF,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,137
+3DD.0078E13E00,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,163
+3DD.0078E13E01,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/12/2026,2026,48.151085,-120.056584,157
 3DD.0078E13E02,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2025,2025,48.151085,-120.056584,143
 3DD.0078E13E03,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/29/2025,2025,48.151085,-120.056584,147
+3DD.0078E13E04,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,153
+3DD.0078E13E05,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,140
+3DD.0078E13E06,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,132
 3DD.0078E13E07,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,146
 3DD.0078E13E08,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/6/2025,2025,48.151085,-120.056584,136
+3DD.0078E13E09,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,140
 3DD.0078E13E0A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,135
 3DD.0078E13E0B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2025,2025,48.151085,-120.056584,145
 3DD.0078E13E0C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/6/2025,2025,48.151085,-120.056584,132
+3DD.0078E13E0D,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,135
+3DD.0078E13E0E,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/21/2026,2026,48.151085,-120.056584,135
+3DD.0078E13E0F,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,168
 3DD.0078E13E10,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,139
 3DD.0078E13E11,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/27/2025,2025,48.151085,-120.056584,135
 3DD.0078E13E12,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/31/2025,2025,48.151085,-120.056584,137
 3DD.0078E13E13,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/1/2025,2025,48.151085,-120.056584,144
 3DD.0078E13E14,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/23/2025,2025,48.151085,-120.056584,133
+3DD.0078E13E15,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,140
 3DD.0078E13E16,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/2/2025,2025,48.151085,-120.056584,138
+3DD.0078E13E17,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,145
+3DD.0078E13E18,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,135
 3DD.0078E13E19,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,6/3/2025,2025,48.151085,-120.056584,136
+3DD.0078E13E1A,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/2/2026,2026,48.151085,-120.056584,133
 3DD.0078E13E1B,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,134
+3DD.0078E13E1C,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,134
 3DD.0078E13E1D,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,135
+3DD.0078E13E1E,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,134
+3DD.0078E13E1F,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,134
 3DD.0078E13E20,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,5/30/2025,2025,48.151085,-120.056584,137
+3DD.0078E13E21,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/15/2026,2026,48.151085,-120.056584,137
+3DD.0078E13E22,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,140
+3DD.0078E13E23,Larvae,METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/23/2026,2026,48.151085,-120.056584,133
+3DD.0078E13E24,Macropthalmia (eyed juvenile),METTRP - Methow Smolt Trap at McFarland Creek Road Bridge,METTRP,Methow Smolt Trap at McFarland Creek Road Bridge,4/14/2026,2026,48.151085,-120.056584,130
+3DD.00790B5BB7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/23/2026,2026,48.367273,-120.138784,138
+3DD.00790B5BBC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/29/2026,2026,48.367273,-120.138784,149
+3DD.00790B5BBF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,3/22/2026,2026,48.367273,-120.138784,140
+3DD.00790B5BC3,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/6/2026,2026,48.367273,-120.138784,138
+3DD.00790B5BC6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/10/2026,2026,48.367273,-120.138784,143
+3DD.00790B5BC7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/14/2026,2026,48.367273,-120.138784,145
+3DD.00790B5BC8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,7/15/2026,2026,48.367273,-120.138784,145
+3DD.00790B5BCB,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/11/2026,2026,48.367273,-120.138784,130
+3DD.00790B5BD4,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,4/10/2026,2026,48.367273,-120.138784,130
+3DD.00790B5BD6,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/8/2026,2026,48.367273,-120.138784,140
+3DD.00790B5BDD,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/15/2026,2026,48.367273,-120.138784,159
+3DD.00790B5BDE,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/12/2026,2026,48.367273,-120.138784,145
+3DD.00790B5BE7,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,149
+3DD.00790B5BE9,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/10/2026,2026,48.367273,-120.138784,130
+3DD.00790B5BF0,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/5/2026,2026,48.367273,-120.138784,140
+3DD.00790B5BF2,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,136
+3DD.00790B5BF8,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/8/2026,2026,48.367273,-120.138784,133
+3DD.00790B5BFA,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/12/2026,2026,48.367273,-120.138784,154
+3DD.00790B5BFC,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/7/2026,2026,48.367273,-120.138784,143
+3DD.00790B5BFF,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/20/2026,2026,48.367273,-120.138784,136
+3DD.00790B5C02,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/3/2026,2026,48.367273,-120.138784,130
+3DD.00790B5C03,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/9/2026,2026,48.367273,-120.138784,137
+3DD.00790B5C06,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/20/2026,2026,48.367273,-120.138784,142
+3DD.00790B5C07,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/6/2026,2026,48.367273,-120.138784,140
+3DD.00790B5C08,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/19/2026,2026,48.367273,-120.138784,134
+3DD.00790B5C0F,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/4/2026,2026,48.367273,-120.138784,129
+3DD.00790B5C10,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/8/2026,2026,48.367273,-120.138784,143
+3DD.00790B5C12,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/6/2026,2026,48.367273,-120.138784,134
+3DD.00790B5C13,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,6/10/2026,2026,48.367273,-120.138784,136
+3DD.00790B5C15,Larvae,TWITRP - Twisp River rotary smolt trap,TWITRP,Twisp River rotary smolt trap,5/21/2026,2026,48.367273,-120.138784,132
