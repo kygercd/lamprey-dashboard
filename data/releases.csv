@@ -1863,6 +1863,7 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon
 3DD.003D9810AC,Starr Boat Launch,8/12/2021,2021,47.983552,-119.887492
 3DD.003D9810AD,Starr Boat Launch,8/12/2021,2021,47.983552,-119.887492
 3DD.003D9810AE,Starr Boat Launch,8/12/2021,2021,47.983552,-119.887492
+3DD.003DF512B0,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
 3DD.003E215B52,Starr Boat Launch,8/15/2024,2024,47.983552,-119.887492
 3DD.003E215B53,Starr Boat Launch,8/15/2024,2024,47.983552,-119.887492
 3DD.003E215B54,Starr Boat Launch,8/15/2024,2024,47.983552,-119.887492
@@ -3816,6 +3817,46 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon
 3DD.0078E12779,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492
 3DD.0078E1277A,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492
 3DD.0078E1277B,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492
+3DD.0078E12844,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1284A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1284E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1284F,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12851,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12854,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12856,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12857,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12858,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1285A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E1285B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1285E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12861,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12862,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12868,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12869,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1286B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1286C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1286D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12873,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12874,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12877,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12879,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1287D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12880,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12881,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12883,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12886,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12889,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E1288C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1288D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1288E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12893,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12895,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12896,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E12898,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1289B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E1289E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E128A0,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
+3DD.0078E128A7,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/14/2026,2026,47.367152,-120.158839
 3DD.0078E129D4,Starr Boat Launch,9/4/2025,2025,47.983552,-119.887492
 3DD.0078E129D5,Starr Boat Launch,9/4/2025,2025,47.983552,-119.887492
 3DD.0078E129D6,Beaver Creek,8/21/2025,2025,48.435095,-120.022301
@@ -3914,6 +3955,81 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon
 3DD.0078E12A35,Starr Boat Launch,9/4/2025,2025,47.983552,-119.887492
 3DD.0078E12A36,Starr Boat Launch,9/4/2025,2025,47.983552,-119.887492
 3DD.0078E12A37,Starr Boat Launch,9/4/2025,2025,47.983552,-119.887492
+3DD.0078E12C2F,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C31,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C32,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C33,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C34,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C35,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C36,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C38,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C39,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C3B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C3C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C3D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C3E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C40,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C41,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C42,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C44,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C46,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C47,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C48,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C49,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C4A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C4B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C4D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C4E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C4F,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C50,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C51,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C52,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C53,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C55,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C56,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C57,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C58,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C59,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C5B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C5C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C5D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C5E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C60,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C61,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C63,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C64,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C65,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C66,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C67,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C68,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C69,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C6A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C6B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C6C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C6D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C6E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C71,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C72,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C73,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C74,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C75,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C77,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C79,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C7C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C7D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C7E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C80,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C81,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C82,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C84,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C85,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C88,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C8A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
+3DD.0078E12C8B,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C8C,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C8D,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/31/2026,2026,47.367152,-120.158839
+3DD.0078E12C8E,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",8/7/2026,2026,47.367152,-120.158839
+3DD.0078E12C8F,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",7/24/2026,2026,47.367152,-120.158839
 3DD.0078E13910,Starr Boat Launch,8/29/2024,2024,47.983552,-119.887492
 3DD.0078E13911,Starr Boat Launch,8/29/2024,2024,47.983552,-119.887492
 3DD.0078E13912,Starr Boat Launch,8/29/2024,2024,47.983552,-119.887492
