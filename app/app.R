@@ -98,7 +98,7 @@ JUV_STAGE_COLORS  <- c("Larvae"                        = "#e6550d",
 # external radio tag in addition to their PIT tag; "PIT only" fish
 # got just the PIT tag.
 RT_GROUPS        <- c("PIT + Radio Tag" = "PIT+RT", "PIT Only" = "PIT only")
-RT_GROUP_COLORS  <- c("PIT+RT" = "#984ea3", "PIT only" = "#377eb8")
+RT_GROUP_COLORS  <- c("PIT+RT" = "#d7191c", "PIT only" = "#2c7bb6")
 
 # Offsets same-site bubbles for different tag-type groups sideways so
 # they don't fully overlap when both groups are shown at once.
@@ -364,9 +364,12 @@ ui <- page_navbar(
         hr(),
         textOutput("rt_map_summary"),
         hr(),
-        helpText("Purple = PIT + Radio Tag. Blue = PIT Only."),
+        helpText("Red = PIT + Radio Tag. Blue = PIT Only."),
         helpText("Click a bubble to see individual fish.",
-                 "Click a row in the table to see that fish's full detection history.")
+                 "Click a row in the table to see that fish's full detection history."),
+        hr(),
+        helpText("At Wells Dam, DCPUD Adult Ladders: Left Ladder = East",
+                 "Fishway, Right Ladder = West Fishway.")
       ),
       card(full_screen = TRUE, height = "68vh", min_height = "460px",
            leafletOutput("rt_map", height = "100%")),
@@ -752,7 +755,8 @@ server <- function(input, output, session) {
         transmute(tag_code, tag_type, radio_tag,
                   release_date   = fmt_date(release_date),
                   detection_site = detection_site_label,
-                  last_detection = fmt_date(last_detection))
+                  last_detection = fmt_date(last_detection),
+                  last_antenna)
     } else {
       rt_releases_filt() |> filter(release_site == sc, tag_type == grp) |>
         transmute(tag_code, tag_type, radio_tag, release_site,
@@ -779,6 +783,7 @@ server <- function(input, output, session) {
       transmute(`Detection Site`  = detection_site_label,
                 `First Detection` = fmt_date(first_detection),
                 `Last Detection`  = fmt_date(last_detection),
+                `Last Antenna`    = last_antenna,
                 Count = count)
     showModal(modalDialog(
       title = paste("Detection history:", tag),

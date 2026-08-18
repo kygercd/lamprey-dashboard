@@ -197,12 +197,13 @@ detections <- interr_adult |>
     detection_site_code  = extract_site_code(site),
     detection_site_label = site,
     first_detection      = parse_ptagis_datetime(first_time),
-    last_detection       = parse_ptagis_datetime(last_time)
+    last_detection       = parse_ptagis_datetime(last_time),
+    last_antenna         = last_antenna_group
   ) |>
   select(tag_code, release_site, release_date, release_year,
          release_lat, release_lon, radio_tag, tag_type,
          detection_site_code, detection_site_label,
-         first_detection, last_detection, count)
+         first_detection, last_detection, last_antenna, count)
 
 write_csv(detections, path(data_dir, "detections.csv"))
 
