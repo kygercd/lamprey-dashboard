@@ -37,3 +37,17 @@ queries:
     description: >
       Interrogation Summary for juvenile Pacific Lamprey
       (juvenile detections at PIT arrays).
+
+  - name: rt_study_tagging
+    filename: "2026 Lamprey RT Study Tagging Detail.csv"
+    description: >
+      Tagging Detail for the 2026 Pacific Lamprey radiotelemetry
+      study (adult fish trapped/released at Wells Hatchery; a
+      subset also received an external radio tag -- the Radio Tag
+      column is populated for those fish, blank for PIT-only fish).
+
+  - name: rt_study_interrogation
+    filename: "2026 Lamprey RT Study Interrogation Summary.csv"
+    description: >
+      Interrogation Summary for the 2026 Pacific Lamprey
+      radiotelemetry study fish (same tags as rt_study_tagging).

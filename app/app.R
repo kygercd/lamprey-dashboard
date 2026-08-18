@@ -2,11 +2,15 @@
 # Lamprey Dashboard
 #
 # Tabs:
-#   Map         – adult releases / last detection, filter by year
-#   Juveniles   – larvae & macropthalmia releases / last detection,
-#                 filter by life stage + year
-#   Wells Dam   – daily Pacific Lamprey passage counts (CBR DART)
-#   Data status – file info
+#   Map                        – adult releases / last detection, filter by year
+#   Juveniles                  – larvae & macropthalmia releases / last
+#                                 detection, filter by life stage + year
+#   2026 Radio Telemetry Study – the subset of adult releases/detections
+#                                 that are part of the 2026 RT study (some
+#                                 got both a PIT tag and a radio tag, some
+#                                 got PIT only); filter by tag type
+#   Wells Dam                  – daily Pacific Lamprey passage counts (CBR DART)
+#   Data status                – file info
 
 suppressPackageStartupMessages({
   library(shiny)
@@ -88,6 +92,25 @@ JUV_STAGES        <- c("Larvae", "Macropthalmia (eyed juvenile)")
 JUV_STAGE_COLORS  <- c("Larvae"                        = "#e6550d",
                         "Macropthalmia (eyed juvenile)" = "#756bb1")
 
+# ---- RT (radiotelemetry) study constants ---------------------
+# 2026 RT study fish are a subset of the adult releases/detections
+# (tag_type is NA for every non-RT-study row). "PIT+RT" fish got an
+# external radio tag in addition to their PIT tag; "PIT only" fish
+# got just the PIT tag.
+RT_GROUPS        <- c("PIT + Radio Tag" = "PIT+RT", "PIT Only" = "PIT only")
+RT_GROUP_COLORS  <- c("PIT+RT" = "#984ea3", "PIT only" = "#377eb8")
+
+# Offsets same-site bubbles for different tag-type groups sideways so
+# they don't fully overlap when both groups are shown at once.
+jitter_groups <- function(df) {
+  groups <- sort(unique(df$group))
+  if (length(groups) <= 1) return(df)
+  offsets        <- seq(-0.01, 0.01, length.out = length(groups))
+  names(offsets) <- groups
+  df$lon <- df$lon + offsets[df$group]
+  df
+}
+
 # ---- Load data ----------------------------------------------
 load_all <- function() {
   # Adult
@@ -114,7 +137,9 @@ load_all <- function() {
       mutate(release_date = parse_dt(release_date),
              release_year = as.integer(release_year),
              release_lat  = suppressWarnings(as.numeric(release_lat)),
-             release_lon  = suppressWarnings(as.numeric(release_lon)))
+             release_lon  = suppressWarnings(as.numeric(release_lon)),
+             radio_tag    = suppressWarnings(as.numeric(radio_tag)),
+             tag_type     = as.character(tag_type))
 
   # -- Adult detections (attach coords from metadata) --
   if (!is.null(detections)) {
@@ -125,7 +150,9 @@ load_all <- function() {
              release_lon     = suppressWarnings(as.numeric(release_lon)),
              first_detection = parse_dt(first_detection),
              last_detection  = parse_dt(last_detection),
-             count           = suppressWarnings(as.integer(count)))
+             count           = suppressWarnings(as.integer(count)),
+             radio_tag       = suppressWarnings(as.numeric(radio_tag)),
+             tag_type        = as.character(tag_type))
     if (!is.null(meta)) {
       coords <- meta |>
         select(site_code, det_lat = latitude, det_lon = longitude) |>
@@ -219,6 +246,27 @@ site_summary_juv_det <- function(df) {
            lat = det_lat, lon = det_lon)
 }
 
+# Same idea as the adult site_summary_* helpers above, but grouped by
+# tag_type too (an extra "group" column) so PIT+RT vs PIT-only fish at
+# the same site render as separate, distinguishable bubbles.
+site_summary_rt_rel <- function(df) {
+  df |>
+    filter(!is.na(release_lat), !is.na(release_lon)) |>
+    group_by(release_site, release_lat, release_lon, tag_type) |>
+    summarise(n = n_distinct(tag_code), .groups = "drop") |>
+    transmute(site_code = release_site, site_name = release_site,
+              lat = release_lat, lon = release_lon, group = tag_type, n)
+}
+
+site_summary_rt_det <- function(df) {
+  df |>
+    filter(!is.na(det_lat), !is.na(det_lon)) |>
+    group_by(detection_site_code, detection_site_label, det_lat, det_lon, tag_type) |>
+    summarise(n = n_distinct(tag_code), .groups = "drop") |>
+    rename(site_code = detection_site_code, site_name = detection_site_label,
+           lat = det_lat, lon = det_lon, group = tag_type)
+}
+
 # ---- Shared map renderer ------------------------------------
 render_map_base <- function(map_id) {
   leaflet() |>
@@ -297,6 +345,37 @@ ui <- page_navbar(
     )
   ),
 
+  # =============== 2026 Radio Telemetry Study tab =============
+  nav_panel(
+    title = "2026 Radio Telemetry Study",
+    layout_sidebar(
+      sidebar = sidebar(
+        title = "RT study options", width = 300,
+        radioButtons("rt_mode", "Mode:",
+                     choices  = c("Last Detection" = "last",
+                                  "Releases"        = "releases"),
+                     selected = "last"),
+        hr(),
+        checkboxGroupInput(
+          "rt_group", "Tag type:",
+          choices  = RT_GROUPS,
+          selected = unname(RT_GROUPS)
+        ),
+        hr(),
+        textOutput("rt_map_summary"),
+        hr(),
+        helpText("Purple = PIT + Radio Tag. Blue = PIT Only."),
+        helpText("Click a bubble to see individual fish.",
+                 "Click a row in the table to see that fish's full detection history.")
+      ),
+      card(full_screen = TRUE, height = "68vh", min_height = "460px",
+           leafletOutput("rt_map", height = "100%")),
+      card(height = "30vh", min_height = "200px",
+           card_header(textOutput("rt_detail_header")),
+           DTOutput("rt_detail_table"))
+    )
+  ),
+
   # ===================== Wells Dam tab =======================
   nav_panel(
     title = "Wells Dam Counts",
@@ -341,6 +420,12 @@ ui <- page_navbar(
         tags$li(sprintf("Juvenile detections: %s records for %s fish",
                         format(nrow(raw$juv_det), big.mark = ","),
                         n_distinct(raw$juv_det$tag_code))),
+        tags$li(sprintf(
+          "2026 RT study: %s fish tagged (%s PIT+RT, %s PIT only), %s detection records",
+          format(sum(!is.na(raw$releases$tag_type)), big.mark = ","),
+          sum(raw$releases$tag_type == "PIT+RT", na.rm = TRUE),
+          sum(raw$releases$tag_type == "PIT only", na.rm = TRUE),
+          format(sum(!is.na(raw$detections$tag_type)), big.mark = ","))),
         tags$li(sprintf("Wells Dam counts: %s days (%s – %s)",
                         format(nrow(raw$wells), big.mark = ","),
                         min(raw$wells$date), max(raw$wells$date)))
@@ -586,6 +671,120 @@ server <- function(input, output, session) {
       DTOutput("juv_history_tbl"),
       easyClose = TRUE, footer = modalButton("Close"), size = "l"))
     output$juv_history_tbl <- renderDT(
+      datatable(hist, rownames = FALSE,
+                options = list(pageLength = 50, dom = "t", scrollX = TRUE)))
+  })
+
+  # ============================================================
+  # 2026 Radio Telemetry Study
+  # ============================================================
+  # tag_type is non-NA only for the 2026 RT study subset of the
+  # regular adult releases/detections (see build_lamprey_data.R), so
+  # this whole tab is just that subset with an extra tag-type filter
+  # and group-colored bubbles.
+
+  rt_group_sel <- reactive({ input$rt_group %||% unname(RT_GROUPS) })
+
+  rt_releases_filt <- reactive({
+    df <- raw$releases; if (is.null(df)) return(NULL)
+    df |> filter(!is.na(tag_type), tag_type %in% rt_group_sel())
+  })
+
+  rt_last_det_filt <- reactive({
+    df <- raw$detections; if (is.null(df)) return(NULL)
+    df |> filter(!is.na(tag_type), tag_type %in% rt_group_sel()) |>
+      group_by(tag_code) |>
+      slice_max(last_detection, n = 1, with_ties = FALSE) |> ungroup()
+  })
+
+  rt_active <- reactive({
+    if (input$rt_mode == "last") rt_last_det_filt() else rt_releases_filt()
+  })
+
+  rt_bubbles <- reactive({
+    df <- rt_active(); if (is.null(df) || nrow(df) == 0) return(NULL)
+    out <- if (input$rt_mode == "last") site_summary_rt_det(df) else site_summary_rt_rel(df)
+    jitter_groups(out)
+  })
+
+  output$rt_map_summary <- renderText({
+    df <- rt_active(); if (is.null(df) || nrow(df) == 0) return("No data.")
+    lbl <- if (input$rt_mode == "last") "fish with detections" else "fish released"
+    n_sites <- if (input$rt_mode == "last") n_distinct(df$detection_site_code)
+               else n_distinct(df$release_site)
+    sprintf("%s %s at %s site(s).",
+            format(n_distinct(df$tag_code), big.mark = ","), lbl, n_sites)
+  })
+
+  output$rt_map <- renderLeaflet(render_map_base("rt_map"))
+  outputOptions(output, "rt_map", suspendWhenHidden = FALSE)
+
+  observe({
+    df  <- rt_bubbles()
+    prx <- leafletProxy("rt_map") |> clearMarkers()
+    if (is.null(df) || nrow(df) == 0) return()
+    r   <- pmax(6, pmin(30, sqrt(df$n) * 3.2))
+    col <- RT_GROUP_COLORS[df$group]
+    prx |> addCircleMarkers(
+      data = df, lng = ~lon, lat = ~lat, radius = r,
+      color = col, weight = 1, fillColor = col, fillOpacity = 0.75,
+      layerId = ~paste(site_code, group, sep = "__"),
+      label   = ~sprintf("%s – %d fish (%s)", site_name, n, group),
+      popup   = ~sprintf("<b>%s</b><br/>%d fish<br/>%s", site_name, n, group))
+  })
+
+  rt_click <- reactiveVal(NULL)
+  observeEvent(input$rt_map_marker_click, rt_click(input$rt_map_marker_click$id))
+  observe({ input$rt_mode; input$rt_group; rt_click(NULL) })
+
+  output$rt_detail_header <- renderText({
+    id <- rt_click()
+    if (is.null(id)) "Click a bubble on the map to see fish details."
+    else             sprintf("Fish at: %s", sub("__[^_]*$", "", id))
+  })
+
+  rt_detail <- reactive({
+    id <- rt_click(); if (is.null(id)) return(NULL)
+    sc  <- sub("__[^_]*$", "", id)
+    grp <- sub("^.*__", "", id)
+    if (input$rt_mode == "last") {
+      rt_last_det_filt() |> filter(detection_site_code == sc, tag_type == grp) |>
+        transmute(tag_code, tag_type, radio_tag,
+                  release_date   = fmt_date(release_date),
+                  detection_site = detection_site_label,
+                  last_detection = fmt_date(last_detection))
+    } else {
+      rt_releases_filt() |> filter(release_site == sc, tag_type == grp) |>
+        transmute(tag_code, tag_type, radio_tag, release_site,
+                  release_date = fmt_date(release_date))
+    }
+  })
+
+  output$rt_detail_table <- renderDT({
+    df <- rt_detail()
+    if (is.null(df) || nrow(df) == 0)
+      return(datatable(data.frame(), rownames = FALSE, selection = "single"))
+    datatable(df, selection = "single", rownames = FALSE,
+              options = list(pageLength = 20, scrollX = TRUE,
+                             order = list(list(0, "asc"))))
+  })
+
+  observeEvent(input$rt_detail_table_rows_selected, {
+    sel <- input$rt_detail_table_rows_selected
+    df  <- rt_detail()
+    if (is.null(sel) || is.null(df) || sel > nrow(df)) return()
+    tag <- df$tag_code[sel]
+    hist <- raw$detections |> filter(tag_code == tag) |>
+      arrange(first_detection) |>
+      transmute(`Detection Site`  = detection_site_label,
+                `First Detection` = fmt_date(first_detection),
+                `Last Detection`  = fmt_date(last_detection),
+                Count = count)
+    showModal(modalDialog(
+      title = paste("Detection history:", tag),
+      DTOutput("rt_history_tbl"),
+      easyClose = TRUE, footer = modalButton("Close"), size = "l"))
+    output$rt_history_tbl <- renderDT(
       datatable(hist, rownames = FALSE,
                 options = list(pageLength = 50, dom = "t", scrollX = TRUE)))
   })
