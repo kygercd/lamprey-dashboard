@@ -27,6 +27,7 @@ TUM,"Tumwater Dam, Wenatchee River",47.616653,-120.723184,754.044,Dam,mrr
 TWISPR,Twisp River,48.353884,-120.365091,843.066,River,mrr
 TWISPW,Twisp River Weir (WDFW),48.379881,-120.243074,843.066.013,TraporWeir,mrr
 TWITRP,Twisp River rotary smolt trap,48.367273,-120.138784,843.066.002,TraporWeir,mrr
+WEH,Wells Dam Hatchery,47.944134,-119.867240,830,Hatchery,interrogation
 WEL,Wells Dam,47.947302,-119.864549,830,Dam,mrr
 WELFBY,WEL - Release into the Forebay within 0.5 km upstream of Dam,47.952911,-119.866358,830,IntraDamReleaseSite,mrr
 WELH,Wells Hatchery,47.946893,-119.870615,830,Hatchery,mrr

@@ -141,22 +141,27 @@ releases <- cth |>
 # rt_study_tagging.csv is a "Tagging Detail" export (mark_site /
 # release_site / release_date given directly, no event_* columns),
 # so it needs its own -- simpler -- transform rather than reusing
-# the CTH one above. There's no hand-corrected override file for
-# these brand-new tags, so release coordinates always come from the
-# site-metadata fallback (same generic-but-always-available lookup
-# the CTH path uses for un-overridden tags).
+# the CTH one above. Every RT study fish is released at the same
+# spot, and PTAGIS's own "COLR7" site record is just a generic
+# river-segment centroid (also used as the release-site fallback for
+# hundreds of other, non-RT-study translocated releases -- see the
+# CTH block above -- so it can't be corrected there without moving
+# those too). RT_RELEASE_LAT/LON is the actual drop point for this
+# study, hardcoded here since 100% of rt_study_tagging.csv rows share
+# it (confirmed 2026-08-19).
+RT_RELEASE_LAT <- 47.543177
+RT_RELEASE_LON <- -120.291457
+
 if (!is.null(rt_tag)) {
   rt_releases <- rt_tag |>
-    mutate(tag_code = tag,
-           release_site_code_raw = extract_site_code(release_site)) |>
-    left_join(sites_lookup, by = c("release_site_code_raw" = "site_code")) |>
     mutate(
+      tag_code     = tag,
       release_site = extract_site_label_after_dash(release_site),
       release_year = year(mdy(release_date)),
       radio_tag    = suppressWarnings(as.numeric(radio_tag)),
       tag_type     = if_else(!is.na(radio_tag), "PIT+RT", "PIT only"),
-      release_lat  = fallback_lat,
-      release_lon  = fallback_lon
+      release_lat  = RT_RELEASE_LAT,
+      release_lon  = RT_RELEASE_LON
     ) |>
     select(tag_code, release_site, release_date, release_year,
            release_lat, release_lon, radio_tag, tag_type)
