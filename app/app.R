@@ -727,7 +727,11 @@ server <- function(input, output, session) {
     prx <- leafletProxy("rt_map") |> clearMarkers()
     if (is.null(df) || nrow(df) == 0) return()
     r   <- pmax(6, pmin(30, sqrt(df$n) * 3.2))
-    col <- RT_GROUP_COLORS[df$group]
+    # unname() matters here: a *named* color vector gets JSON-serialized
+    # as an object ({"PIT+RT":"#d7191c",...}) instead of a plain array,
+    # which Leaflet.js can't map to points -- markers silently fall back
+    # to its default color (reads as black) instead of erroring.
+    col <- unname(RT_GROUP_COLORS[df$group])
     prx |> addCircleMarkers(
       data = df, lng = ~lon, lat = ~lat, radius = r,
       color = col, weight = 1, fillColor = col, fillOpacity = 0.75,
