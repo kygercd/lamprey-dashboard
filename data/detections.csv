@@ -3981,6 +3981,7 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon,radio_ta
 3DD.0078E12777,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2025-07-24 00:40:06,2025-07-24 00:40:06,Single Array,1
 3DD.0078E12778,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,LMR,LMR - Lower Methow River at Pateros,2025-07-21 01:25:47,2025-07-21 01:25:47,Upstream Array,1
 3DD.0078E12778,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2025-07-26 23:48:49,2026-06-15 12:07:47,Single Array,1
+3DD.0078E12779,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,CRU,CRU - Upper Chewuch Instream Array,2026-08-18 00:20:06,2026-08-18 00:20:11,Upstream Array,1
 3DD.0078E12779,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,CRW,CRW - Chewuch River above Winthrop,2026-07-27 23:42:35,2026-07-27 23:54:30,UPSTREAM ARRAY,1
 3DD.0078E12779,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2026-07-10 00:48:39,2026-07-10 00:48:39,Single Array,1
 3DD.0078E1277A,Starr Boat Launch,7/17/2025,2025,47.983552,-119.887492,NA,NA,OKL,OKL - Lower Okanogan Instream Array,2025-07-20 03:30:42,2025-07-20 03:30:48,Upstream Array,1
@@ -4905,7 +4906,7 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon,radio_ta
 3DD.0078E13CE4,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2025-07-30 02:29:43,2026-06-04 02:59:14,Single Array,1
 3DD.0078E13CE5,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,LMR,LMR - Lower Methow River at Pateros,2025-07-25 23:04:11,2025-07-25 23:04:11,Downstream Array,1
 3DD.0078E13CE5,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2025-07-30 00:44:58,2025-07-30 00:44:58,Single Array,1
-3DD.0078E13CE6,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,CRU,CRU - Upper Chewuch Instream Array,2025-08-11 00:05:16,2025-08-11 00:05:22,Upstream Array,1
+3DD.0078E13CE6,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,CRU,CRU - Upper Chewuch Instream Array,2025-08-11 00:05:16,2026-07-03 21:27:09,Downstream Array,1
 3DD.0078E13CE6,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,CRW,CRW - Chewuch River above Winthrop,2025-08-02 23:00:53,2026-07-07 02:05:48,DOWNSTREAM ARRAY,1
 3DD.0078E13CE6,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,LMR,LMR - Lower Methow River at Pateros,2025-07-25 23:47:23,2025-07-25 23:47:31,Upstream Array,1
 3DD.0078E13CE6,Starr Boat Launch,7/24/2025,2025,47.983552,-119.887492,NA,NA,MRC,MRC - Methow River at Carlton,2025-07-30 02:35:23,2025-07-30 02:35:23,Single Array,1
