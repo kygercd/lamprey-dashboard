@@ -1,7 +1,7 @@
 query,rows,cols,fetched
-translocated_lamprey_cth,5311,8,2026-10-12T22:18:59Z
-translocated_lamprey_interrogation,5122,16,2026-10-12T22:19:00Z
-juv_lamprey_tagging_detail,3172,12,2026-10-12T22:19:01Z
-juv_lamprey_interrogation,113,16,2026-10-12T22:19:01Z
-rt_study_tagging,544,15,2026-10-12T22:19:02Z
-rt_study_interrogation,38,16,2026-10-12T22:19:02Z
+translocated_lamprey_cth,5311,8,2026-10-19T20:18:04Z
+translocated_lamprey_interrogation,5122,16,2026-10-19T20:18:04Z
+juv_lamprey_tagging_detail,3172,12,2026-10-19T20:18:05Z
+juv_lamprey_interrogation,113,16,2026-10-19T20:18:05Z
+rt_study_tagging,544,15,2026-10-19T20:18:05Z
+rt_study_interrogation,38,16,2026-10-19T20:18:05Z
