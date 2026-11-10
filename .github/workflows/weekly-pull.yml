@@ -27,13 +27,10 @@ jobs:
           r-version: "release"
           use-public-rspm: true
 
-      - name: Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: r-${{ runner.os }}-${{ hashFiles('DESCRIPTION') }}
-          restore-keys: r-${{ runner.os }}-
-
+      # No separate actions/cache step: setup-r-dependencies caches
+      # the R library itself, keyed on OS *version*. A key based only
+      # on runner.os restored Ubuntu 24.04 binaries onto 26.04 and
+      # broke stringi (missing libicu74) on 2026-11-09.
       - name: Install R package dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
