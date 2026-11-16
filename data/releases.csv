@@ -5141,7 +5141,6 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon,radio_ta
 3DD.0078E12CF3,Salmon Creek (tributary to Okanogan River),9/8/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E12E85,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E12E87,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
-3DD.0078E12E88,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E12E89,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E12E8A,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E12E8D,Starr Boat Ramp on west shore 5 km upstream of Wells Dam,9/17/2026,2026,47.543177,-120.291457,NA,PIT only
@@ -5237,6 +5236,7 @@ tag_code,release_site,release_date,release_year,release_lat,release_lon,radio_ta
 3DD.0078E13285,Similkameen River,9/14/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E13286,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",9/11/2026,2026,47.543177,-120.291457,164,PIT+RT
 3DD.0078E13287,Omak Creek (tributary to Okanogan River),9/14/2026,2026,47.543177,-120.291457,NA,PIT only
+3DD.0078E13288,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",9/18/2026,2026,47.543177,-120.291457,199,PIT+RT
 3DD.0078E13289,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",9/11/2026,2026,47.543177,-120.291457,178,PIT+RT
 3DD.0078E1328A,"Columbia River - Lower Crab Creek to Chelan Falls, WA (km 661-809)",9/11/2026,2026,47.543177,-120.291457,NA,PIT only
 3DD.0078E1328B,Omak Creek (tributary to Okanogan River),9/14/2026,2026,47.543177,-120.291457,NA,PIT only
